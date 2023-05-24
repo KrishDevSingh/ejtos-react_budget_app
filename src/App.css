@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+.currency{
+    color: 'blue';
+          font-weight: 'bold';
+          margin-right: '10px';
+          width: '200px';
+          height: '50px';
+          display: 'flex';
+          align-items: 'center';
+          justify-content: 'center';
+          background-color: '#8cff8c';
+}
+
